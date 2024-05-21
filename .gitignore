@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Backend/AdvisorAPI/bin/Debug/net8.0
+/Backend/AdvisorAPI/obj
+/Backend/AdvisorAPI.Tests/bin
+/Backend/AdvisorAPI.Tests/obj
+/.vs
+
